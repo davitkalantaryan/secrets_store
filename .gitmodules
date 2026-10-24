@@ -1,0 +1,3 @@
+[submodule "contrib/zlib_with_tools"]
+	path = contrib/zlib_with_tools
+	url = git@github.com:davitkalantaryan/zlib_with_tools.git
